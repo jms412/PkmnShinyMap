@@ -6,7 +6,8 @@ Current files to put in your config/customMaps folder:
 shinyPossible.json
 
 Monster & Raid DTS
-{{map 'shinyPossible' pokemonId}}{{map 'shinyPossible' (append (toFixed pokemonId) (append '_' (toFixed formId)))}}
+
+```{{map 'shinyPossible' pokemonId}}{{map 'shinyPossible' (append (toFixed pokemonId) (append '_' (toFixed formId)))}}```
 
 Quest DTS & Invasion DTS
 Coming soon... Maybe
@@ -16,7 +17,8 @@ Only one custom map will be applicable for each Pokemon. If the Pokemon doesn't 
 The list is configured to have a physical space in front of each symbol already, so don't leave any extra spaces in your DTS. For example it can follow straight on from name and it will look like the following:
 
 DTS:
-{{name}}{{map 'shinyPossible' pokemonId}}{{map 'shinyPossible' (append (toFixed pokemonId) (append '_' (toFixed formId)))}}
+
+```{{name}}{{map 'shinyPossible' pokemonId}}{{map 'shinyPossible' (append (toFixed pokemonId) (append '_' (toFixed formId)))}}```
 
 Result:
 Pikachu ✨
