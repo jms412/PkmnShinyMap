@@ -23,6 +23,15 @@ Example DTS:
 Result:
 Pikachu ✨
 
+Web:
+
+<img width="538" alt="Screen Shot 2021-08-27 at 11 03 15 am" src="https://user-images.githubusercontent.com/80012316/131055297-d4299549-48a9-4702-b661-80cf5b4dda15.png">
+
+iOS:
+
+![image0](https://user-images.githubusercontent.com/80012316/131055471-3a427cdd-735e-45f7-a6de-259502b70238.png)
+
+
 Big thank you to Jabes and petap0w for their help getting the DTS right.
 
 
@@ -44,6 +53,8 @@ URL:
 Example:
 https://raw.githubusercontent.com/jms412/PkmnHomeIcons/master/UICONS_Half_Shiny/pokemon/113.png
 
+![113](https://user-images.githubusercontent.com/80012316/131055587-3e800fba-fd4f-488b-a7c0-5ed31374e5a7.png)
+
 
 Pokemon Home Style Half Shiny 512x512 + Sparkles
 URL:
@@ -51,6 +62,8 @@ URL:
 
 Example:
 https://raw.githubusercontent.com/jms412/PkmnHomeIcons/master/UICONS_Half_Shiny_Sparkles/pokemon/113.png
+
+![113](https://user-images.githubusercontent.com/80012316/131055566-30e2905b-d213-47db-896b-3a08a89b6f19.png)
 
 
 Pokemon Home Style Half Shiny 128x128
@@ -60,6 +73,8 @@ URL:
 Example:
 https://raw.githubusercontent.com/jms412/PkmnHomeIcons/master/UICONS_Half_Shiny_128/pokemon/113.png
 
+![113](https://user-images.githubusercontent.com/80012316/131055540-8e5795c3-b30d-493b-83ee-6551b233fd80.png)
+
 
 Pokemon Home Style Half Shiny 128x128 + Sparkles
 URL:
@@ -67,6 +82,8 @@ URL:
 
 Example:
 https://raw.githubusercontent.com/jms412/PkmnHomeIcons/master/UICONS_Half_Shiny_Sparkles_128/pokemon/113.png
+
+![113](https://user-images.githubusercontent.com/80012316/131055504-a42f89dc-7af1-4bf9-bb64-df6ab5b28556.png)
 
 
 If you would like to pull the half shiny image from my repo and the standard image from a non-shiny version of my repo when the shiny isn't available you can use the following in your DTS. This will mean you don't cache a non-shiny version of the image before the shiny is released. This method goes against the design of what UICONS is meant to do with fallback, but it's the only solution I've come up with so far to avoid discord caching incorrect images (this issue doesn't effect normal image repos as they don't need to modify their icons as shinies are released).
