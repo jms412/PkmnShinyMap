@@ -25,11 +25,11 @@ Pikachu ✨
 
 Web:
 
-<img width="538" alt="Screen Shot 2021-08-27 at 11 03 15 am" src="https://user-images.githubusercontent.com/80012316/131055297-d4299549-48a9-4702-b661-80cf5b4dda15.png">
+![Screen Shot 2021-08-27 at 11 03 15 am 2](https://user-images.githubusercontent.com/80012316/131055902-f9ffa902-70d4-42ce-a148-5d470eecf8f2.png)
 
 iOS:
 
-![image0](https://user-images.githubusercontent.com/80012316/131055471-3a427cdd-735e-45f7-a6de-259502b70238.png)
+![image0](https://user-images.githubusercontent.com/80012316/131055913-a08f8dbb-210f-4e50-8af5-0feb020750b1.jpeg)
 
 
 Big thank you to Jabes and petap0w for their help getting the DTS right.
