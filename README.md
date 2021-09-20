@@ -24,6 +24,8 @@ Arcanine - Season Of Legends (March 2021 - May 2021)<br />
 Smeargle - Pokemon Snap Celebration (April 2021)<br />
 Unown F - Go Fest 2021 (July 2021)<br />
 Unown U - Ultra Unlock 2021 (Aug 2021)<br />
+Butterfree Costume - Fashion Week 2021 (Sep 2021)<br />
+Kirlia Costume - Fashion Week 2021 (Sep 2021)<br />
 
 
 **Example DTS:**<br />
