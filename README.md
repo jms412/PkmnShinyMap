@@ -44,12 +44,6 @@ iOS:<br />
 You might also want to check out my half shiny icons to use with PMSF and PoracleJS. They are forked from NilePlumb's base. Thank you NilePlumb.
 
 
-**Pokemon Shuffle Style Half Shiny 128x128**<br />
-URL: `https://raw.githubusercontent.com/jms412/PkmnShuffleMap/master/UICONS_Half_Shiny_128/`<br />
-Example:<br />
-https://raw.githubusercontent.com/jms412/PkmnShuffleMap/master/UICONS_Half_Shiny_128/pokemon/113.png<br />
-![113](https://user-images.githubusercontent.com/80012316/131056206-a6799bae-590b-49fb-8347-a206d352cc30.png)<br />
-
 **Pokemon Home Style Half Shiny 512x512**<br />
 URL: `https://raw.githubusercontent.com/jms412/PkmnHomeIcons/master/UICONS_Half_Shiny/`<br />
 Example:<br />
@@ -74,13 +68,15 @@ Example:<br />
 https://raw.githubusercontent.com/jms412/PkmnHomeIcons/master/UICONS_Half_Shiny_Sparkles_128/pokemon/113.png<br />
 ![113](https://user-images.githubusercontent.com/80012316/131055504-a42f89dc-7af1-4bf9-bb64-df6ab5b28556.png)<br />
 
-**Coming Soon: Pokemon Shuffle Style Half Shiny 256x256**<br />
+**Pokemon Shuffle Style Half Shiny 256x256**<br />
+URL: `https://raw.githubusercontent.com/jms412/PkmnShuffleMap/master/UICONS_Half_Shiny_256`<br />
 Example:<br />
 ![113](https://user-images.githubusercontent.com/80012316/131269262-ceb2f01a-593f-469d-9888-ce5311fd6fd9.png)<br />
 
-**Coming Soon: Pokemon Shuffle Style Half Shiny 256x256 + Sparkles**<br />
+**Pokemon Shuffle Style Half Shiny 256x256 + Sparkles**<br />
+URL: `https://raw.githubusercontent.com/jms412/PkmnShuffleMap/master/UICONS_Half_Shiny_Sparkles_256`<br />
 Example:<br />
-![113](https://user-images.githubusercontent.com/80012316/131269253-3679bd25-8830-4b50-9536-0334297d52d5.png)<br />
+![113_s](https://user-images.githubusercontent.com/80012316/133961530-8f2b6d28-c97f-465a-b9e5-3454ce318498.png)<br />
 
 
 **Old Method (For Reference Only):**<br />
