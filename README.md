@@ -27,6 +27,9 @@ Unown U - Ultra Unlock 2021 (Aug 2021)<br />
 Butterfree Costume - Fashion Week 2021 (Sep 2021)<br />
 Kirlia Costume - Fashion Week 2021 (Sep 2021)<br />
 Drifblim Costume - Halloween 2021 (Oct 2021)<br />
+Glaceon Costume - Christmas 2021 (Dec 2021)<br />
+Nidorino Costume - New Years 2022 (Jan 2022)<br />
+Raticate Costume - New Years 2022 (Jan 2022)<br />
 
 
 **Example DTS:**<br />
