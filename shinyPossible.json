@@ -486,11 +486,11 @@
       "646_146": " ✨",
       "646_147*": "Black Form",
       "646_148*": "White Form",
-      "***Genesect Normal & Shock Drive (Waiting Others)***": "",
+      "***Genesect Normal, Shock Drive & Burn Drive (Waiting Others)***": "",
       "649_0": " ✨",
       "649_593": " ✨",
       "649_594": " ✨",
-      "649_595*": "Burn Drive Form",
+      "649_595": " ✨",
       "649_596*": "Chill Drive Form",
       "649_597*": "Douse Drive Form",
       "650": " ✨",
@@ -522,6 +522,7 @@
       "***Mega Diancie - Not Released***": "",
       "719*": "",
       "734": " ✨",
+      "736": " ✨",
       "744": " ✨",
       "751": " ✨",
       "753": " ✨",
@@ -536,6 +537,7 @@
       "***Meltan - Events Only***": "",
       "808*": "",
       "900": " ✨",
-      "915": " ✨"
+      "915": " ✨",
+      "962": " ✨"
    }
 }
